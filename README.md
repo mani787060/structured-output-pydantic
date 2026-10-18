@@ -172,5 +172,3 @@ By working through this project, you can understand how to:
 ## Conclusion
 
 This project provides a practical introduction to **structured LLM outputs using Pydantic and LangChain**. It demonstrates how a natural-language product review can be transformed into organized fields that are easier to inspect, validate, and use in downstream applications.
-
-**Repository:** [structured-output-pydantic](https://github.com/mani787060/structured-output-pydantic)
